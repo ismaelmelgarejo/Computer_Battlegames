@@ -1,1 +1,1 @@
-![preview](https://github.com/user-attachments/assets/44c47034-06e4-412a-b9dd-014593b32215)
+![preview](https://github.com/ismaelmelgarejo/Computer_Battlegames/blob/main/Computer_Battlegames.png?raw=true)
