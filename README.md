@@ -8,3 +8,12 @@
 
 - [**Python**](https://www.python.org/) - Versatile programming language for various applications.
 - [**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript) - Dynamic language for web development interactions..
+
+## 🧞 For Python
+```bash
+python3 file.py
+```
+
+## 🧞 For JavaScript
+- Open file.html
+
