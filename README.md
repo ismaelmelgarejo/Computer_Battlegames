@@ -3,4 +3,5 @@
 
 ![Python Badge](https://img.shields.io/badge/Python-BC52EE?logo=python&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-BC52EE?logo=javascript&logoColor=fff&style=flat)
+![TailwindCSS](https://img.shields.io/badge/JavaScript-0F172A?&logo=JavaScript)
 
